@@ -1,0 +1,13 @@
+C:\kd\clasobmeth\obj\Debug\netcoreapp3.1\clasobmeth.csprojAssemblyReference.cache
+C:\kd\clasobmeth\obj\Debug\netcoreapp3.1\clasobmeth.AssemblyInfoInputs.cache
+C:\kd\clasobmeth\obj\Debug\netcoreapp3.1\clasobmeth.AssemblyInfo.cs
+C:\kd\clasobmeth\obj\Debug\netcoreapp3.1\clasobmeth.csproj.CoreCompileInputs.cache
+C:\kd\clasobmeth\bin\Debug\netcoreapp3.1\clasobmeth.exe
+C:\kd\clasobmeth\bin\Debug\netcoreapp3.1\clasobmeth.deps.json
+C:\kd\clasobmeth\bin\Debug\netcoreapp3.1\clasobmeth.runtimeconfig.json
+C:\kd\clasobmeth\bin\Debug\netcoreapp3.1\clasobmeth.runtimeconfig.dev.json
+C:\kd\clasobmeth\bin\Debug\netcoreapp3.1\clasobmeth.dll
+C:\kd\clasobmeth\bin\Debug\netcoreapp3.1\clasobmeth.pdb
+C:\kd\clasobmeth\obj\Debug\netcoreapp3.1\clasobmeth.dll
+C:\kd\clasobmeth\obj\Debug\netcoreapp3.1\clasobmeth.pdb
+C:\kd\clasobmeth\obj\Debug\netcoreapp3.1\clasobmeth.genruntimeconfig.cache

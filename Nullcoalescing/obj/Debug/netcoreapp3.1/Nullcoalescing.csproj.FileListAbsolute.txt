@@ -1,0 +1,13 @@
+C:\kd\Nullcoalescing\bin\Debug\netcoreapp3.1\Nullcoalescing.exe
+C:\kd\Nullcoalescing\bin\Debug\netcoreapp3.1\Nullcoalescing.deps.json
+C:\kd\Nullcoalescing\bin\Debug\netcoreapp3.1\Nullcoalescing.runtimeconfig.json
+C:\kd\Nullcoalescing\bin\Debug\netcoreapp3.1\Nullcoalescing.runtimeconfig.dev.json
+C:\kd\Nullcoalescing\bin\Debug\netcoreapp3.1\Nullcoalescing.dll
+C:\kd\Nullcoalescing\bin\Debug\netcoreapp3.1\Nullcoalescing.pdb
+C:\kd\Nullcoalescing\obj\Debug\netcoreapp3.1\Nullcoalescing.csprojAssemblyReference.cache
+C:\kd\Nullcoalescing\obj\Debug\netcoreapp3.1\Nullcoalescing.AssemblyInfoInputs.cache
+C:\kd\Nullcoalescing\obj\Debug\netcoreapp3.1\Nullcoalescing.AssemblyInfo.cs
+C:\kd\Nullcoalescing\obj\Debug\netcoreapp3.1\Nullcoalescing.csproj.CoreCompileInputs.cache
+C:\kd\Nullcoalescing\obj\Debug\netcoreapp3.1\Nullcoalescing.dll
+C:\kd\Nullcoalescing\obj\Debug\netcoreapp3.1\Nullcoalescing.pdb
+C:\kd\Nullcoalescing\obj\Debug\netcoreapp3.1\Nullcoalescing.genruntimeconfig.cache

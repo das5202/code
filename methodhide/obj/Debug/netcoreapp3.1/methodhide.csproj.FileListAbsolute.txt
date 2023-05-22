@@ -1,0 +1,13 @@
+C:\kd\methodhide\obj\Debug\netcoreapp3.1\methodhide.csprojAssemblyReference.cache
+C:\kd\methodhide\obj\Debug\netcoreapp3.1\methodhide.AssemblyInfoInputs.cache
+C:\kd\methodhide\obj\Debug\netcoreapp3.1\methodhide.AssemblyInfo.cs
+C:\kd\methodhide\obj\Debug\netcoreapp3.1\methodhide.csproj.CoreCompileInputs.cache
+C:\kd\methodhide\bin\Debug\netcoreapp3.1\methodhide.exe
+C:\kd\methodhide\bin\Debug\netcoreapp3.1\methodhide.deps.json
+C:\kd\methodhide\bin\Debug\netcoreapp3.1\methodhide.runtimeconfig.json
+C:\kd\methodhide\bin\Debug\netcoreapp3.1\methodhide.runtimeconfig.dev.json
+C:\kd\methodhide\bin\Debug\netcoreapp3.1\methodhide.dll
+C:\kd\methodhide\bin\Debug\netcoreapp3.1\methodhide.pdb
+C:\kd\methodhide\obj\Debug\netcoreapp3.1\methodhide.dll
+C:\kd\methodhide\obj\Debug\netcoreapp3.1\methodhide.pdb
+C:\kd\methodhide\obj\Debug\netcoreapp3.1\methodhide.genruntimeconfig.cache

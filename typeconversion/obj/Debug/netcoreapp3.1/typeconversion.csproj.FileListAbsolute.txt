@@ -1,0 +1,13 @@
+C:\kd\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.exe
+C:\kd\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.deps.json
+C:\kd\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.runtimeconfig.json
+C:\kd\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.runtimeconfig.dev.json
+C:\kd\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.dll
+C:\kd\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.pdb
+C:\kd\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.csprojAssemblyReference.cache
+C:\kd\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.AssemblyInfoInputs.cache
+C:\kd\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.AssemblyInfo.cs
+C:\kd\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.csproj.CoreCompileInputs.cache
+C:\kd\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.dll
+C:\kd\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.pdb
+C:\kd\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.genruntimeconfig.cache

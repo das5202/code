@@ -1,0 +1,13 @@
+C:\kd\String Type\obj\Debug\netcoreapp3.1\String Type.csprojAssemblyReference.cache
+C:\kd\String Type\obj\Debug\netcoreapp3.1\String Type.AssemblyInfoInputs.cache
+C:\kd\String Type\obj\Debug\netcoreapp3.1\String Type.AssemblyInfo.cs
+C:\kd\String Type\obj\Debug\netcoreapp3.1\String Type.csproj.CoreCompileInputs.cache
+C:\kd\String Type\bin\Debug\netcoreapp3.1\String Type.exe
+C:\kd\String Type\bin\Debug\netcoreapp3.1\String Type.deps.json
+C:\kd\String Type\bin\Debug\netcoreapp3.1\String Type.runtimeconfig.json
+C:\kd\String Type\bin\Debug\netcoreapp3.1\String Type.runtimeconfig.dev.json
+C:\kd\String Type\bin\Debug\netcoreapp3.1\String Type.dll
+C:\kd\String Type\bin\Debug\netcoreapp3.1\String Type.pdb
+C:\kd\String Type\obj\Debug\netcoreapp3.1\String Type.dll
+C:\kd\String Type\obj\Debug\netcoreapp3.1\String Type.pdb
+C:\kd\String Type\obj\Debug\netcoreapp3.1\String Type.genruntimeconfig.cache

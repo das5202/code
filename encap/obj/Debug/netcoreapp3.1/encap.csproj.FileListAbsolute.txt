@@ -1,0 +1,13 @@
+C:\kd\encap\obj\Debug\netcoreapp3.1\encap.csprojAssemblyReference.cache
+C:\kd\encap\obj\Debug\netcoreapp3.1\encap.AssemblyInfoInputs.cache
+C:\kd\encap\obj\Debug\netcoreapp3.1\encap.AssemblyInfo.cs
+C:\kd\encap\obj\Debug\netcoreapp3.1\encap.csproj.CoreCompileInputs.cache
+C:\kd\encap\bin\Debug\netcoreapp3.1\encap.exe
+C:\kd\encap\bin\Debug\netcoreapp3.1\encap.deps.json
+C:\kd\encap\bin\Debug\netcoreapp3.1\encap.runtimeconfig.json
+C:\kd\encap\bin\Debug\netcoreapp3.1\encap.runtimeconfig.dev.json
+C:\kd\encap\bin\Debug\netcoreapp3.1\encap.dll
+C:\kd\encap\bin\Debug\netcoreapp3.1\encap.pdb
+C:\kd\encap\obj\Debug\netcoreapp3.1\encap.dll
+C:\kd\encap\obj\Debug\netcoreapp3.1\encap.pdb
+C:\kd\encap\obj\Debug\netcoreapp3.1\encap.genruntimeconfig.cache

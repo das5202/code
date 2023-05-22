@@ -1,0 +1,13 @@
+C:\kd\properties\obj\Debug\netcoreapp3.1\properties.csprojAssemblyReference.cache
+C:\kd\properties\obj\Debug\netcoreapp3.1\properties.AssemblyInfoInputs.cache
+C:\kd\properties\obj\Debug\netcoreapp3.1\properties.AssemblyInfo.cs
+C:\kd\properties\obj\Debug\netcoreapp3.1\properties.csproj.CoreCompileInputs.cache
+C:\kd\properties\bin\Debug\netcoreapp3.1\properties.exe
+C:\kd\properties\bin\Debug\netcoreapp3.1\properties.deps.json
+C:\kd\properties\bin\Debug\netcoreapp3.1\properties.runtimeconfig.json
+C:\kd\properties\bin\Debug\netcoreapp3.1\properties.runtimeconfig.dev.json
+C:\kd\properties\bin\Debug\netcoreapp3.1\properties.dll
+C:\kd\properties\bin\Debug\netcoreapp3.1\properties.pdb
+C:\kd\properties\obj\Debug\netcoreapp3.1\properties.dll
+C:\kd\properties\obj\Debug\netcoreapp3.1\properties.pdb
+C:\kd\properties\obj\Debug\netcoreapp3.1\properties.genruntimeconfig.cache

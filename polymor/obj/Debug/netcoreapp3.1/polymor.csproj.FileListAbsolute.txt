@@ -1,0 +1,13 @@
+C:\kd\polymor\bin\Debug\netcoreapp3.1\polymor.exe
+C:\kd\polymor\bin\Debug\netcoreapp3.1\polymor.deps.json
+C:\kd\polymor\bin\Debug\netcoreapp3.1\polymor.runtimeconfig.json
+C:\kd\polymor\bin\Debug\netcoreapp3.1\polymor.runtimeconfig.dev.json
+C:\kd\polymor\bin\Debug\netcoreapp3.1\polymor.dll
+C:\kd\polymor\bin\Debug\netcoreapp3.1\polymor.pdb
+C:\kd\polymor\obj\Debug\netcoreapp3.1\polymor.csprojAssemblyReference.cache
+C:\kd\polymor\obj\Debug\netcoreapp3.1\polymor.AssemblyInfoInputs.cache
+C:\kd\polymor\obj\Debug\netcoreapp3.1\polymor.AssemblyInfo.cs
+C:\kd\polymor\obj\Debug\netcoreapp3.1\polymor.csproj.CoreCompileInputs.cache
+C:\kd\polymor\obj\Debug\netcoreapp3.1\polymor.dll
+C:\kd\polymor\obj\Debug\netcoreapp3.1\polymor.pdb
+C:\kd\polymor\obj\Debug\netcoreapp3.1\polymor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\kd\classintro\obj\Debug\netcoreapp3.1\classintro.csprojAssemblyReference.cache
+C:\kd\classintro\obj\Debug\netcoreapp3.1\classintro.AssemblyInfoInputs.cache
+C:\kd\classintro\obj\Debug\netcoreapp3.1\classintro.AssemblyInfo.cs
+C:\kd\classintro\obj\Debug\netcoreapp3.1\classintro.csproj.CoreCompileInputs.cache
+C:\kd\classintro\bin\Debug\netcoreapp3.1\classintro.exe
+C:\kd\classintro\bin\Debug\netcoreapp3.1\classintro.deps.json
+C:\kd\classintro\bin\Debug\netcoreapp3.1\classintro.runtimeconfig.json
+C:\kd\classintro\bin\Debug\netcoreapp3.1\classintro.runtimeconfig.dev.json
+C:\kd\classintro\bin\Debug\netcoreapp3.1\classintro.dll
+C:\kd\classintro\bin\Debug\netcoreapp3.1\classintro.pdb
+C:\kd\classintro\obj\Debug\netcoreapp3.1\classintro.dll
+C:\kd\classintro\obj\Debug\netcoreapp3.1\classintro.pdb
+C:\kd\classintro\obj\Debug\netcoreapp3.1\classintro.genruntimeconfig.cache

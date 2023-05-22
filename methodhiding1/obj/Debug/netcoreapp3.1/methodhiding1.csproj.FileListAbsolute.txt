@@ -1,0 +1,13 @@
+C:\kd\methodhiding1\bin\Debug\netcoreapp3.1\methodhiding1.exe
+C:\kd\methodhiding1\bin\Debug\netcoreapp3.1\methodhiding1.deps.json
+C:\kd\methodhiding1\bin\Debug\netcoreapp3.1\methodhiding1.runtimeconfig.json
+C:\kd\methodhiding1\bin\Debug\netcoreapp3.1\methodhiding1.runtimeconfig.dev.json
+C:\kd\methodhiding1\bin\Debug\netcoreapp3.1\methodhiding1.dll
+C:\kd\methodhiding1\bin\Debug\netcoreapp3.1\methodhiding1.pdb
+C:\kd\methodhiding1\obj\Debug\netcoreapp3.1\methodhiding1.csprojAssemblyReference.cache
+C:\kd\methodhiding1\obj\Debug\netcoreapp3.1\methodhiding1.AssemblyInfoInputs.cache
+C:\kd\methodhiding1\obj\Debug\netcoreapp3.1\methodhiding1.AssemblyInfo.cs
+C:\kd\methodhiding1\obj\Debug\netcoreapp3.1\methodhiding1.csproj.CoreCompileInputs.cache
+C:\kd\methodhiding1\obj\Debug\netcoreapp3.1\methodhiding1.dll
+C:\kd\methodhiding1\obj\Debug\netcoreapp3.1\methodhiding1.pdb
+C:\kd\methodhiding1\obj\Debug\netcoreapp3.1\methodhiding1.genruntimeconfig.cache

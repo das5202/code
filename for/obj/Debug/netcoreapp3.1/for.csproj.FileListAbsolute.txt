@@ -1,0 +1,13 @@
+C:\kd\for\obj\Debug\netcoreapp3.1\for.csprojAssemblyReference.cache
+C:\kd\for\obj\Debug\netcoreapp3.1\for.AssemblyInfoInputs.cache
+C:\kd\for\obj\Debug\netcoreapp3.1\for.AssemblyInfo.cs
+C:\kd\for\obj\Debug\netcoreapp3.1\for.csproj.CoreCompileInputs.cache
+C:\kd\for\bin\Debug\netcoreapp3.1\for.exe
+C:\kd\for\bin\Debug\netcoreapp3.1\for.deps.json
+C:\kd\for\bin\Debug\netcoreapp3.1\for.runtimeconfig.json
+C:\kd\for\bin\Debug\netcoreapp3.1\for.runtimeconfig.dev.json
+C:\kd\for\bin\Debug\netcoreapp3.1\for.dll
+C:\kd\for\bin\Debug\netcoreapp3.1\for.pdb
+C:\kd\for\obj\Debug\netcoreapp3.1\for.dll
+C:\kd\for\obj\Debug\netcoreapp3.1\for.pdb
+C:\kd\for\obj\Debug\netcoreapp3.1\for.genruntimeconfig.cache

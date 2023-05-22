@@ -1,0 +1,13 @@
+C:\kd\read and write\obj\Debug\netcoreapp3.1\read and write.csprojAssemblyReference.cache
+C:\kd\read and write\obj\Debug\netcoreapp3.1\read and write.AssemblyInfoInputs.cache
+C:\kd\read and write\obj\Debug\netcoreapp3.1\read and write.AssemblyInfo.cs
+C:\kd\read and write\obj\Debug\netcoreapp3.1\read and write.csproj.CoreCompileInputs.cache
+C:\kd\read and write\bin\Debug\netcoreapp3.1\read and write.exe
+C:\kd\read and write\bin\Debug\netcoreapp3.1\read and write.deps.json
+C:\kd\read and write\bin\Debug\netcoreapp3.1\read and write.runtimeconfig.json
+C:\kd\read and write\bin\Debug\netcoreapp3.1\read and write.runtimeconfig.dev.json
+C:\kd\read and write\bin\Debug\netcoreapp3.1\read and write.dll
+C:\kd\read and write\bin\Debug\netcoreapp3.1\read and write.pdb
+C:\kd\read and write\obj\Debug\netcoreapp3.1\read and write.dll
+C:\kd\read and write\obj\Debug\netcoreapp3.1\read and write.pdb
+C:\kd\read and write\obj\Debug\netcoreapp3.1\read and write.genruntimeconfig.cache

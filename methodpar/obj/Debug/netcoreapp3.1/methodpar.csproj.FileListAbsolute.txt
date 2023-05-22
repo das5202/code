@@ -1,0 +1,13 @@
+C:\kd\methodpar\obj\Debug\netcoreapp3.1\methodpar.csprojAssemblyReference.cache
+C:\kd\methodpar\obj\Debug\netcoreapp3.1\methodpar.AssemblyInfoInputs.cache
+C:\kd\methodpar\obj\Debug\netcoreapp3.1\methodpar.AssemblyInfo.cs
+C:\kd\methodpar\obj\Debug\netcoreapp3.1\methodpar.csproj.CoreCompileInputs.cache
+C:\kd\methodpar\bin\Debug\netcoreapp3.1\methodpar.exe
+C:\kd\methodpar\bin\Debug\netcoreapp3.1\methodpar.deps.json
+C:\kd\methodpar\bin\Debug\netcoreapp3.1\methodpar.runtimeconfig.json
+C:\kd\methodpar\bin\Debug\netcoreapp3.1\methodpar.runtimeconfig.dev.json
+C:\kd\methodpar\bin\Debug\netcoreapp3.1\methodpar.dll
+C:\kd\methodpar\bin\Debug\netcoreapp3.1\methodpar.pdb
+C:\kd\methodpar\obj\Debug\netcoreapp3.1\methodpar.dll
+C:\kd\methodpar\obj\Debug\netcoreapp3.1\methodpar.pdb
+C:\kd\methodpar\obj\Debug\netcoreapp3.1\methodpar.genruntimeconfig.cache

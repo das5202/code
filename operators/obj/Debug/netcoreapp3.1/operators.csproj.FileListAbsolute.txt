@@ -1,0 +1,13 @@
+C:\kd\operators\bin\Debug\netcoreapp3.1\operators.exe
+C:\kd\operators\bin\Debug\netcoreapp3.1\operators.deps.json
+C:\kd\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.json
+C:\kd\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.dev.json
+C:\kd\operators\bin\Debug\netcoreapp3.1\operators.dll
+C:\kd\operators\bin\Debug\netcoreapp3.1\operators.pdb
+C:\kd\operators\obj\Debug\netcoreapp3.1\operators.csprojAssemblyReference.cache
+C:\kd\operators\obj\Debug\netcoreapp3.1\operators.AssemblyInfoInputs.cache
+C:\kd\operators\obj\Debug\netcoreapp3.1\operators.AssemblyInfo.cs
+C:\kd\operators\obj\Debug\netcoreapp3.1\operators.csproj.CoreCompileInputs.cache
+C:\kd\operators\obj\Debug\netcoreapp3.1\operators.dll
+C:\kd\operators\obj\Debug\netcoreapp3.1\operators.pdb
+C:\kd\operators\obj\Debug\netcoreapp3.1\operators.genruntimeconfig.cache
